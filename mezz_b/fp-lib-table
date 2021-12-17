@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name PCIE_RIBBON)(type KiCad)(uri ${KIPRJMOD}/PCIE_RIBBON.pretty)(options "")(descr ""))
+  (lib (name PCIE-064-02-F-D-TH)(type KiCad)(uri ${KIPRJMOD}/PCIE-064-02-F-D-TH.pretty)(options "")(descr ""))
+)

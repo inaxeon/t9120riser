@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name PCIE_X4)(type KiCad)(uri ${KIPRJMOD}/PCIE_X4.pretty)(options "")(descr ""))
+  (lib (name PCIE_X16)(type KiCad)(uri ${KIPRJMOD}/PCIE_X16.pretty)(options "")(descr ""))
+  (lib (name NGFF)(type KiCad)(uri ${KIPRJMOD}/NGFF.pretty)(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type KiCad)(uri ${KIPRJMOD}/SamacSys_Parts.pretty)(options "")(descr ""))
+  (lib (name PCIE_RIBBON)(type KiCad)(uri ${KIPRJMOD}/PCIE_RIBBON.pretty)(options "")(descr ""))
+  (lib (name PCIE-064-02-F-D-TH)(type KiCad)(uri ${KIPRJMOD}/PCIE-064-02-F-D-TH.pretty)(options "")(descr ""))
+  (lib (name PCIE-098-02-F-D-TH)(type KiCad)(uri ${KIPRJMOD}/PCIE-098-02-F-D-TH.pretty)(options "")(descr ""))
+)

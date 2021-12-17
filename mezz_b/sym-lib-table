@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name PCIeX4)(type Legacy)(uri ${KIPRJMOD}/PCIeX4.lib)(options "")(descr ""))
+  (lib (name t9120riser-rescue)(type Legacy)(uri N:/Electronics/t9120riser/main/t9120riser-rescue.lib)(options "")(descr ""))
+  (lib (name PCIex16)(type Legacy)(uri N:/Electronics/t9120riser/main/PCIeX16.lib)(options "")(descr ""))
+  (lib (name PCIeX8)(type Legacy)(uri N:/Electronics/t9120riser/main/PCIeX8.lib)(options "")(descr ""))
+  (lib (name ZL40264)(type Legacy)(uri N:/Electronics/t9120riser/main/ZL40264.lib)(options "")(descr ""))
+)

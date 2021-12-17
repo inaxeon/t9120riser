@@ -1,0 +1,22 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MDT420M03001
+D CONN FEMALE 67POS 0.020 GOLD
+$ENDCMP
+#
+$CMP NE555DR
+D Single Precision Timer
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP PCIE-064-02-F-D-TH
+D Samtec PCIE Series, Female PCB Edge Connector, Through Hole Mount, 64 Way, 2 Row, 1mm Pitch, 2.5A
+F https://www.samtec.com/products/pcie-064-02-f-d-th
+$ENDCMP
+#
+$CMP PCIE-098-02-F-D-TH
+D Samtec PCIE Series, Female PCB Edge Connector, Through Hole Mount, 98 Way, 2 Row, 1mm Pitch, 2.5A
+F http://suddendocs.samtec.com/catalog_english/pcie.pdf
+$ENDCMP
+#
+#End Doc Library
